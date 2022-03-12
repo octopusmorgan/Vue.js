@@ -1,10 +1,10 @@
-Open the terminal and run the command
-npm install -g @vue/cli
+<h4>Open the terminal and run the command</h4>
+<p><b> npm install -g @vue/cli</b></p>
 
-Check the Vue version with
-vue --version
+<h4>Check the Vue version with</h4>
+<p><b> vue --version</b></p>
 
-<h5>Create Project run the command</h5>
-vue create <name-project>
-you can't use capital letters in name project
+<h4>Create Project run the command</h4>
+<p><b>vue create name-project</b></p>
+<p>you can't use capital letters in name project</p>
 
